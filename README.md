@@ -45,8 +45,6 @@ PostgreSQL / MySQL / SQL Server – SQL queries & data analysis
 
 Power BI – Interactive dashboard creation
 
-Gamma – Professional PPT creation
-
 Git & GitHub – Version control
 
 🔎 Project Steps
